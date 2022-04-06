@@ -25,7 +25,7 @@
 
 В командной строке клонируйте проект в нужную папку и перейдите в него:
 ```
-git clone https://github.com/NVTaranets/api_yamdb
+git clone https://github.com/pro100cemuk/infra_sp2
 ```
 ```
 cd api_yamdb
@@ -87,3 +87,8 @@ DB_HOST=
 # порт для подключения к БД
 DB_PORT=
 ```
+## Open Source License
+GPL v3 (can check in gpl-3.0.md file)
+## Автор проекта
+pro100cemuk aka Евгений Семенов
+студент 6 кагорты ЯндексПрактикум
